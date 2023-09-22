@@ -13,3 +13,5 @@ function pageLoad() {
 function makemebus(){
     document.getElementById('randomy').innerHTML = says[Math.floor(Math.random() * says.length)]
 }
+
+

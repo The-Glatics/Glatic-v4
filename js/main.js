@@ -68,4 +68,6 @@ window.addEventListener('DOMContentLoaded', () => {
     document.body.setAttribute("class", "ugly");
     console.log('ugly');
   }
+
+
 });
